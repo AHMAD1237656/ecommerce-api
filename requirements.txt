@@ -1,0 +1,9 @@
+Django==6.1
+djangorestframework
+django-filter
+drf-spectacular
+djangorestframework-simplejwt
+psycopg2-binary
+python-dotenv
+stripe
+reportlab
